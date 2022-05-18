@@ -28,6 +28,10 @@ This challenge is based on two sources of data :
  ```
 *user and password will be shared separately. 
 
+### Clinical data manually gathered
+See ``manual_data.csv`` file. 
+
+
 ## Deliverables
 
 The candidate is asked to provide a self-contained and sustainable solution to help physicians
