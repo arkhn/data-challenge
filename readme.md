@@ -20,7 +20,7 @@ This challenge is based on two sources of data :
 
 ### Database credentials 
 ``` 
- host : mammouth.arkhn.com
+ host : **
  port : 5432
  user : *
  password : * 
@@ -35,7 +35,7 @@ See ``manual_data.csv`` file.
 ## Deliverables
 
 The candidate is asked to provide a self-contained and sustainable solution to help physicians
-monitor some constants of their patients during their stay.  
+monitor some constants of their patients during their stay. Some attention to performance is expected.    
 The physicians targeted are anesthetists or resuscitators.
 The vital signs they are interested in are : Blood Pressure, SpO2, Heart Rate, Breath Rate, Respiratory Rate and can be any other relevant observation proposed by the candidate.
 The laboratory measurements are Alk. Phosphate, Calcium, Epoetin alfa. 
