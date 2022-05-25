@@ -11,6 +11,7 @@ and discuss potential challenges faced. This will feed a follow-up discussion on
 If the candidate judges that any part of this challenge requires clarification, he or she is welcome to reach out via e-mail. 
 
 
+
 ## Materials 
 
 This challenge is based on two sources of data : 
@@ -37,8 +38,13 @@ See ``manual_data.csv`` file.
 The candidate is asked to provide a self-contained and sustainable solution to help physicians
 monitor some constants of their patients during their stay. Some attention to performance is expected.    
 The physicians targeted are anesthetists or resuscitators.
-The vital signs they are interested in are : Blood Pressure, SpO2, Heart Rate, Breath Rate, Respiratory Rate and can be any other relevant observation proposed by the candidate.
-The laboratory measurements are Alk. Phosphate, Calcium, Epoetin alfa. 
+The vital signs they are interested in are : Blood Pressure, SpO2, Heart Rate, Respiratory Rate and can be any other relevant observation proposed by the candidate.
+The laboratory measurements are Alk Phosphate, Calcium, Epoetin alfa. 
 This data must be monitored with regard to patient demographic data (id, gender, age, medical comments). 
 Physicians expect to be alerted when these levels are critical. 
 Finally, they also expressed the need to access the content of patients prescriptions easily. 
+
+```
+NB: Even though we expect results as support to the discussion, we also care about the approach
+ and the arguments underlying the choices made by the candidate.
+```
