@@ -1,4 +1,4 @@
-# Analytics Engineer Practical challenge 
+# Arkhn Data Practical challenge 
 
 ## Introduction
 This challenge is handed out to the candidate a few days before meeting with our team in-person. 
@@ -42,6 +42,12 @@ The vital signs they are interested in are : Blood Pressure, SpO2, Heart Rate, R
 This data must be monitored with regard to patient demographic data (id, gender, age, medical comments). 
 Physicians expect to be alerted when these levels reach critical values. 
 Finally, they also expressed the need to access the content of patients prescriptions easily. 
+
+* Analytics Engineers candidates: 
+It is expected from Analytics Engineer candidates' solution to monitor not only patients from the ``manual_data.csv`` file, but also any patient of the database.
+
+* Healthcare Data Anlaysts candidates:
+It is expected from Healthcare Data Analysts candidates' solution to only monitor the patients from the ``manual_data.csv`` file. Of course, you can tackle the data of more patients if you want.
 
 ## Extra
 Other laboratory measurements to monitor : Alk Phosphate, Calcium, Epoetin alfa. 
