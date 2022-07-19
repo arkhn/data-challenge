@@ -47,6 +47,8 @@ Finally, they also expressed the need to access the content of patients prescrip
 Other laboratory measurements to monitor : Alk Phosphate, Calcium, Epoetin alfa. 
 
 ```
-NB: Even though we expect results as support to the discussion, we also care about the approach
+NB: 
+- Even though we expect results as support to the discussion, we also care about the approach
  and the arguments underlying the choices made by the candidate.
+- The candidate is also asked, if possible, to bring his/her computer. If not, please let us know, we will provide you with the necessary material.
 ```
