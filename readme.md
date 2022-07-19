@@ -1,4 +1,4 @@
-# Analytics Engineer Practical challenge 
+# Arkhn-Data Practical challenge 
 
 ## Introduction
 This challenge is handed out to the candidate a few days before meeting with our team in-person. 
