@@ -43,6 +43,10 @@ This data must be monitored with regard to patient demographic data (id, gender,
 Physicians expect to be alerted when these levels reach critical values. 
 Finally, they also expressed the need to access the content of patients prescriptions easily. 
 
+Also:
+- For Healthcare Data Analysts candidates : It is only expected to study patients in the manual_data.csv file. Of course, if you want, you can study all the patients from the database.
+- For Analytics Engineering candidates : It is expected to study all the patients from the database. 
+
 ## Extra
 Other laboratory measurements to monitor : Alk Phosphate, Calcium, Epoetin alfa. 
 
